@@ -8,7 +8,7 @@ public class TestNum {
         System.out.println("x = " + x + " y = " + y);
         y = y++;
         System.out.println("x = " + x + " y = " + y);
-        y = ++y;
+        //y = ++y;
         System.out.println("x = " + x + " y = " + y);
     }
 }
