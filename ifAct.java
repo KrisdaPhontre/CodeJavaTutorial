@@ -6,10 +6,10 @@ public class ifAct {
         System.out.print("Enter the score :");
         score = in.nextDouble();
         if (score >= 60) 
-            System.out.println("you are pass");
+            System.out.println("Your Score : "+score+" you are pass");
         else{
             
-            System.out.println("you are not pass");
+            System.out.println("Your Score : "+score+" you are not pass");
         }
         
     }
