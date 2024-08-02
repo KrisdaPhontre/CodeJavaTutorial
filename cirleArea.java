@@ -11,6 +11,5 @@ public class cirleArea {
             double area = 3.141 * radius * radius;
             System.out.println("Teh area is "+area);
         }
-        
     }
 }
